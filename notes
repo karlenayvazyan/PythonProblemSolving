@@ -1,0 +1,10 @@
+Input: nums = [3,2,4], target = 6
+Output: [1,2]
+
+6 - 3 = 3 
+
+[0,4,3,0], target = 0
+
+Output: [0, 3]
+
+[-3,4,3,90]
